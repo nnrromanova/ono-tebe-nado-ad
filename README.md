@@ -1,16 +1,16 @@
-# Проект: "Оно тебе надо"
+# РџСЂРѕРµРєС‚: "РћРЅРѕ С‚РµР±Рµ РЅР°РґРѕ"
 
-## Ссылка на GitHub Pages
+## РЎСЃС‹Р»РєР° РЅР° GitHub Pages
 
-Проект доступен по ссылке:  
-[https://nnrromanova.github.io/proekt-ono-tebe-nado/](https://nnrromanova.github.io/proekt-ono-tebe-nado/)
+РџСЂРѕРµРєС‚ РґРѕСЃС‚СѓРїРµРЅ РїРѕ СЃСЃС‹Р»РєРµ:  
+[https://nnrromanova.github.io/proekt-ono-tebe-nado/][https://nnrromanova.github.io/proekt-ono-tebe-nado/](https://github.com/nnrromanova/ono-tebe-nado-ad)
 
-## Описание проекта
+## РћРїРёСЃР°РЅРёРµ РїСЂРѕРµРєС‚Р°
 
-[краткое описание вашего проекта]
+[РєСЂР°С‚РєРѕРµ РѕРїРёСЃР°РЅРёРµ РІР°С€РµРіРѕ РїСЂРѕРµРєС‚Р°]
 
-## Технологии
+## РўРµС…РЅРѕР»РѕРіРёРё
 
 - HTML
 - CSS
-- [другие технологии]
+- [РґСЂСѓРіРёРµ С‚РµС…РЅРѕР»РѕРіРёРё]
